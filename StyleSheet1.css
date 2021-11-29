@@ -1,0 +1,29 @@
+﻿body
+{
+    background-color:lightskyblue;
+    color:white;
+}
+h1 {
+    text-align: center;
+    font-size: 300%;
+    color: white;
+}
+mark {
+    background-color: white;
+    text-decoration: initial;
+    color: black;
+    box-shadow: black -10px 15px;
+}
+.Pic1 {
+    width: 25%;
+    height: 300px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+img {
+    margin: 0%;
+    width: 50%;
+    height: 40%;
+
+}
